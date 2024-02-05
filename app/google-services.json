@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645058237075",
+    "project_id": "dpose-7186a",
+    "storage_bucket": "dpose-7186a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645058237075:android:e5ac53739492e3d1b1b366",
+        "android_client_info": {
+          "package_name": "com.example.a2dpose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Fu-5pA3ZoOC2ZtxiEnJlx0Vv0PlbfEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
